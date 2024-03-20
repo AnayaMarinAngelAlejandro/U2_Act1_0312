@@ -17,3 +17,11 @@ samples, guidance on mobile development, and a full API reference.
 
 - How to use FlutLab? Please, view our https://flutlab.io/docs
 - Join the discussion and conversation on https://flutlab.io/residents
+
+## Actividad 1, unidad 2: FlutLab - Flutter Online IDE
+
+- Link de referencia: https://docs.google.com/document/d/1y8gJfE0umHmYBjj3R9vaVoAeOrt0f4gYvrFGi89imXk/edit
+- Angel Anaya a.21308051280312@cbtis128.edu.mx
+
+## Resultado de mi aplicacion en FlutLab: 
+![image](https://github.com/AnayaMarinAngelAlejandro/U2_Act1_0312/assets/143743148/c2a0ec50-10e2-4817-bd62-616d8c50567f)
